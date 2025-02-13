@@ -1,0 +1,3 @@
+{"users":[{"_csrf":"supersecret","firstname":"Cecile","lastname":"Darwiche","address":"Univ Drive","city":"Miami","state":"FL","zip":"33146","email":"email@email.com"},
+        {"_csrf":"supersecret","firstname":"Cecile","lastname":"Darwiche","address":"Univ Drive","city":"Miami","state":"FL","zip":"33146","email":"email@email.com"},
+        {"_csrf":"supersecret","firstname":"Cecile","lastname":"Darwiche","address":"Univ Drive","city":"mi","state":"FL","zip":"33146","email":"email@email.com"}]}
