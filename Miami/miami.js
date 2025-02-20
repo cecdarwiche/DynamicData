@@ -62,6 +62,12 @@ app.get('/newsletter-signup', handler.newsletterSignup)
 app.post('/newsletter-signup/process', handler.newsletterSignupProcess)
 app.get('/newsletter/list', handler.newsletterSignupList)
 
+//Dynamic Routes 
+//details shows one record 
+app.get('/newsletter/detail/:email', handler.newsletterUser)
+//delete
+app.get('/newsletter/delete/:email', handler.newsletterUserDelete)
+
 // ERROR HANDLING -- goes after actual routes ^^
 //the default response is 404 not found
 app.use((request,response) =>{
