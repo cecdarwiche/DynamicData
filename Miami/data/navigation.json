@@ -9,20 +9,21 @@
             "text": "Home",
             "href":"/"
         },{
+            "text": "About",
+            "href":"/page/about"
+        },{
             "text": "Nightlife",
-            "href":"/nightlife"
+            "href":"/page/nightlife"
         },{
             "text": "Beaches",
-            "href":"/beaches"
+            "href":"/page/beaches"
+        },
+        {
+            "text": "Shopping",
+            "href":"/page/shopping"
         },{
-            "text": "About",
-            "href":"/about"
-        },{
-            "text": "Newsletter Sign Up",
-            "href":"/newsletter-signup"
-        },{
-            "text": "Newsletter List",
-            "href":"/newsletter/list"
+            "text": "Food",
+            "href":"/page/food"
         }
 
     ]

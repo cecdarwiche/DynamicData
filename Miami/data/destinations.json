@@ -1,0 +1,154 @@
+{
+    "locations": [
+        {
+            "page": "nightlife",
+            "name": "LIV",
+            "description": "A world-famous nightclub at the Fontainebleau",
+            "image": "/images/destinations/nightlife1.jpg"
+        },
+        {
+            "page": "nightlife",
+            "name": "Bal Harbour",
+            "description": "A sophisticated destination with high-end hotel bars and exclusive beachfront lounges.",
+            "image": "/images/destinations/nightlife2.jpg"
+        },
+        {
+            "page": "nightlife",
+            "name": "Club Space",
+            "description": "A legendary spot for all-night electronic music",
+            "image": "/images/destinations/nightlife3.jpg"
+        },
+        {
+            "page": "nightlife",
+            "name": "The Wharf",
+            "description": "An open-air waterfront venue with drinks, food trucks, and live music",
+            "image": "/images/destinations/nightlife4.jpg"
+        },
+        {
+            "page": "nightlife",
+            "name": "Coco Walk",
+            "description": "A charming waterfront district with laid-back rooftop bars",
+            "image": "/images/destinations/nightlife5.jpg"
+        },
+        {
+            "page": "nightlife",
+            "name": "Design District",
+            "description": " A trendy area known for shopping, art galleries, and  cocktail bars",
+            "image": "/images/destinations/nightlife6.jpg"
+        },
+
+
+        {
+            "page": "beaches",
+            "name": "South Beach",
+            "description": "Miami’s most famous beach with white sand and Art Deco vibes",
+            "image": "/images/destinations/beach1.jpg"
+        },
+        {
+            "page": "beaches",
+            "name": "Crandon Park",
+            "description": "A family-friendly beach with calm waters and nature trails",
+            "image": "/images/destinations/beach2.jpg"
+        },
+        {
+            "page": "beaches",
+            "name": "Key Biscayne",
+            "description": "Home to a historic lighthouse and peaceful nature spots",
+            "image": "/images/destinations/beach3.jpg"
+        },
+        {
+            "page": "beaches",
+            "name": "Surfside",
+            "description": "A beach perfect for those looking to escape the crowds",
+            "image": "/images/destinations/beach4.jpg"
+        },
+        {
+            "page": "beaches",
+            "name": "Sunny Isles",
+            "description": "A luxurious beach with resorts and a scenic pier",
+            "image": "/images/destinations/beach5.jpg"
+        },
+        {
+            "page": "beaches",
+            "name": "Haulover",
+            "description": "A stunning stretch of sand famous for its surf-friendly waves",
+            "image": "/images/destinations/beach6.jpg"
+        },
+
+
+
+         
+        {
+            "page": "shopping",
+            "name": "Bal Harbour Shop",
+            "description": "A luxury shopping destination with designer brands",
+            "image": "/images/destinations/shop1.jpg"
+        },
+        {
+            "page": "shopping",
+            "name": "Design District",
+            "description": "High-end shopping and arts district featuring top fashion",
+            "image": "/images/destinations/shop2.jpg"
+        },
+        {
+            "page": "shopping",
+            "name": "City Centre",
+            "description": "A modern, upscale mall with luxury retailers, dining, and entertainment",
+            "image": "/images/destinations/shop3.jpg"
+        },
+        {
+            "page": "shopping",
+            "name": "Lincoln Road",
+            "description": "A lively outdoor shopping street in South Beach with boutiques",
+            "image": "/images/destinations/shop4.jpg"
+        },
+        {
+            "page": "shopping",
+            "name": "Aventura Mall",
+            "description": "One of the largest malls in the U.S.",
+            "image": "/images/destinations/shop5.jpg"
+        },
+        {
+            "page": "shopping",
+            "name": "Coconut Grove",
+            "description": " A charming mix of boutiques, stores, and dining spots",
+            "image": "/images/destinations/shop6.jpg"
+        },
+
+        {
+            "page": "food",
+            "name": "Joe’s Stone Crab",
+            "description": "A legendary seafood spot famous for its fresh stone crabs",
+            "image": "/images/destinations/food1.jpg"
+        },
+        {
+            "page": "food",
+            "name": "Versailles",
+            "description": "The go-to place for authentic Cuban food in the heart of Little Havana",
+            "image": "/images/destinations/food2.jpg"
+        },{
+            "page": "food",
+            "name": "Zuma Miami",
+            "description": "A stylish waterfront restaurant serving modern Japanese cuisine",
+            "image": "/images/destinations/food3.jpg"
+        },{
+            "page": "food",
+            "name": "Carbone Miami",
+            "description": "A high-end Italian eatery known for its old-school charm",
+            "image": "/images/destinations/food4.jpg"
+        },{
+            "page": "food",
+            "name": "Mandolin",
+            "description": "A cozy Mediterranean gem offering Greek and Turkish dishes",
+            "image": "/images/destinations/food5.jpg"
+        },{
+            "page": "food",
+            "name": "La Mar",
+            "description": "A Peruvian fine-dining experience with stunning bayfront views",
+            "image": "/images/destinations/food6.jpg"
+        }
+
+
+        
+    ]
+}

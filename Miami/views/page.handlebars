@@ -1,13 +1,12 @@
+{{>slideshow}}
+
 <!-- to test if there is a title -->
 {{#if title}}
-<h1>{{title}} page!</h1>
+<h1 class = "lilita-one-regular">{{title}}!</h1>
 {{/if}}
 
-{{>basic}}
-
-{{#if req.query.color}}
-<p>
-    Your favorite color is: {{req.query.color}}
-</p>
-
+{{#if description}}
+<p class = "intro">{{description}}</p>
 {{/if}}
+
+ {{>destinations}}
