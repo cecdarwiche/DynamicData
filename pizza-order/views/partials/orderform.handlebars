@@ -1,0 +1,41 @@
+<form method="post" action="/order/create" enctype="application/x-www-form-urlencoded">
+
+<div class="mb-3">
+    <select class="form-select" aria-label="Default select example">
+        <option selected>Select a size</option>
+        <option value="S">Small</option>
+        <option value="M">Medium</option>
+        <option value="L">Large</option>
+        <option value="XL">Extra Large</option>
+    </select>
+</div>
+
+<div class="mb-3">
+    <div class="form-check">
+        <input class="form-check-input" type="checkbox" value="ham" id="toppings-ham" name="toppings[]">
+        <label class="form-check-label" for="toppings">
+            Ham $3.50
+        </label>
+    </div>
+    <div class="form-check">
+        <input class="form-check-input" type="checkbox" value="olives" id="toppings-o" name="toppings[]">
+        <label class="form-check-label" for="toppings">
+            Olives $1
+        </label>
+    </div>
+    <div class="form-check">
+        <input class="form-check-input" type="checkbox" value="mushrooms" id="toppings-m" name="toppings[]">
+        <label class="form-check-label" for="toppings">
+            Mushrooms $2
+        </label>
+    </div>
+    <div class="form-check">
+        <input class="form-check-input" type="checkbox" value="peppers" id="toppings-p" name="toppings[]">
+        <label class="form-check-label" for="toppings">
+            Peppers $2.50
+        </label>
+    </div>
+</div>
+
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
